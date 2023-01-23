@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "local_uri": "mysql://root:21September2022@localhost/python blogs",
+      "prod_uri":"mysql://root:@localhost/python blogs",
+      "fb_url":"https://facebook.com/python blogs",
+      "tw_url":"https://twitter.com/python blogs",
+      "gh_url": "https://github.com/python blogs",
+      "blog_name": "Python blogs",
+      "tag_line": "Heaven for programmers",
+      "gmail-user":"osamashamim93@gmail.com",
+      "gmail-password":"opnsbgbrvozghgdt",
+      "about_text": "Hi my name is Osama and I am learning Flask python",
+      "about_text_new" : "Hi my name is Osama and I am learning Flask python",
+      "no_of_posts" : 5,
+      "login_image":"login.svg",
+      "admin_user":"osama",
+      "admin_password": "12345"
+
+    }
+  }
